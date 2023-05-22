@@ -6,5 +6,6 @@ if(name == "Маша")
     }
 else
     {
-        Console.WriteLine("Здравствуйте!");
+        Console.Write("Здравствуйте, ");
+        Console.WriteLine(name);
     }
